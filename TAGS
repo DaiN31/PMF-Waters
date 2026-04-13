@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <article>defines an article</article>
+ <aside>defines an aside</aside>
+ <cite>defines a citation</cite>
+ <code>defines computer code</code>
+ <del>defines deleted text</del>
+ <em>defines emphasized text</em>
+ <ins>defines inserted text</ins>
+ <mark>defines marked text</mark>
+ <abbr>defines an abbreviation</abbr>
+ <address>defines contact information for the author/owner of a document</address>
+ <bdo>defines the text direction</bdo>
+ <blockquote>defines a section that is quoted from another source</blockquote>
+ <q>defines a short quotation</q>
+ <s>defines text that is no longer correct</s>
+ <samp>defines sample output from a computer program</samp>
+ <small>defines smaller text</small>
+ <strong>defines important text</strong>
+ <sub>defines subscripted text</sub>
+ <sup>defines superscripted text</sup>
+ <param>defines a parameter for an object</param>
+ <source>defines multiple media resources for media elements (<video> and <audio>)</source>
+ <track>defines text tracks for media elements (<video> and <audio>)</track>
+ <wbr>defines a possible line-break</wbr>
+ <progress>defines the progress of a task</progress>
+ <meter>defines a scalar measurement within a known range (a gauge)</meter>
+ <svg>defines a container for SVG graphics</svg>
+ <math>defines a container for mathematical expressions</math>
+ <var>defines a variable</var>
+ <time>defines a specific time (or datetime)</time>
+ <theader>defines a header for a document or section</theader>
+ <footer>defines a footer for a document or section</footer>
+ <canvas>defines a canvas for graphics</canvas>
+ <details>defines additional details that the user can view or hide</details>
+ <summary>defines a visible heading for a <details> element</summary>
+ <colgroup>defines a group of one or more columns in a table for formatting</colgroup>
+ <col>defines a column within a table</col>
+ <dfn>defines a definition term</dfn>
+ <figcaption>defines a caption for a <figure> element</figcaption>
+ <figure>defines self-contained content, like illustrations, diagrams, photos, code listings, etc.</figure>
+ <fencedframe>defines a fenced frame</fencedframe>
+ <fencedframeset>defines a fenced frameset</fencedframeset>
+
+
+
+</body>
+</html>
