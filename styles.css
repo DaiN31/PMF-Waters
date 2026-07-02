@@ -70,6 +70,8 @@ footer { background: #023e8a; color: white; text-align: center; padding: 30px; }
 
 
 
+
+
 #about {
   padding: clamp(60px, 8vw, 100px) 20px;
   background: #f9fcff;
@@ -429,3 +431,25 @@ footer { background: #023e8a; color: white; text-align: center; padding: 30px; }
     height: auto;       
     object-fit: cover;
   }
+
+  @media (max-width: 768px) {
+  .home-content, .about-grid, .process-grid, .product-grid, .contact-grid { 
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  nav ul { 
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 10px 0;
+  }
+
+  img, video { 
+    max-width: 100%;
+    height: auto;
+  }
+
+  .hero-content h1 { font-size: clamp(28px, 8vw, 48px); }
+  section { padding: 40px 5%; } 
+} 
